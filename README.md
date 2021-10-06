@@ -5,17 +5,17 @@ Data Structures are critical for implementing efficient solutions using programm
 
 Added solution for the following problems:
 
-Best Time to Buy and Sell Stock II
-Climbing Stairs
-Counting Bits
-First Unique Character in String
-Jewels and Stones
-Letter Combinations of a Phone Number
-Lowest Common Ancestor of a Binary Search Tree
-Merge Two Binary Trees
-Missing Number
-Path Sum
-Power of Two
-Remove Element
-Robot Return to Origin
-Single Number
+Best Time to Buy and Sell Stock II <br/>
+Climbing Stairs <br/>
+Counting Bits <br/>
+First Unique Character in String <br/>
+Jewels and Stones <br/>
+Letter Combinations of a Phone Number <br/>
+Lowest Common Ancestor of a Binary Search Tree <br/>
+Merge Two Binary Trees <br/>
+Missing Number <br/>
+Path Sum <br/>
+Power of Two <br/>
+Remove Element <br/>
+Robot Return to Origin <br/>
+Single Number <br/>
