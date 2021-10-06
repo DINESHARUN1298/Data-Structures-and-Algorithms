@@ -1,6 +1,10 @@
 # Data-Structures
 Data Structures are critical for implementing efficient solutions using programming languages. Here, I have shared my version of the DS implementations.These are inspired from William Fisset. 
 
+Dynamic Array <br/>
+Stack <br/>
+Queue <br/>
+
 # Leet-Code-Solutions
 
 Added solution for the following problems:
