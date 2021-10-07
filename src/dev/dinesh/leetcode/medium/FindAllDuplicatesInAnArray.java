@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode;
+package dev.dinesh.leetcode.medium;
 
 import java.util.ArrayList;
 import java.util.List;
