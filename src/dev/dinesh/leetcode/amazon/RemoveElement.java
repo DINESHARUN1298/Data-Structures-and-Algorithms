@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode;
+package dev.dinesh.leetcode.amazon;
 
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {

@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode;
+package dev.dinesh.leetcode.amazon;
 
 import java.util.HashMap;
 import java.util.Map;

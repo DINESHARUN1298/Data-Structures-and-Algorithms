@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode;
+package dev.dinesh.leetcode.amazon;
 
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {

@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode;
+package dev.dinesh.leetcode.amazon;
 
 public class RobotReturnToOrigin {
     public boolean judgeCircle(String moves) {
