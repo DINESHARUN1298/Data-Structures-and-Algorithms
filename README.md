@@ -7,6 +7,8 @@ Queue <br/>
 
 # Leet-Code-Solutions
 
+Added solution for specific easy, medium, hard and mock problems from leetcode problems
+
 Added solution for the following problems:
 
 Best Time to Buy and Sell Stock II <br/>
