@@ -1,2 +1,3 @@
-22/10/2021 <br/>
-Completed daily DS Study - Today's Topic - Arrays <br/>
+|  Date  |      Topic        |
+|--------|-------------------|
+|22/10/21| Arrays            |
