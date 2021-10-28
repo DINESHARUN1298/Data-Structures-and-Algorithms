@@ -2,7 +2,7 @@ package dev.dinesh.leetcode.datastructures.linkedlist;
 
 public class LinkedListCycle {
 
-    class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
@@ -27,4 +27,5 @@ public class LinkedListCycle {
         }
         return true;
     }
+
 }
