@@ -1,6 +1,6 @@
 package dev.dinesh.leetcode.datastructures.tree;
 
-public class SearchInABinaryTree {
+public class SearchInABinarySearchTree {
 
     public class TreeNode {
         int val;
