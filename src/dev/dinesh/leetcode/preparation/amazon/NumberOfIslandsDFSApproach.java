@@ -1,6 +1,6 @@
 package dev.dinesh.leetcode.preparation.amazon;
 
-public class NumberOfIslands {
+public class NumberOfIslandsDFSApproach {
     public void dfs(char[][] grid, int rowIndex, int colIndex) {
         int rows = grid.length;
         int cols = grid[0].length;
