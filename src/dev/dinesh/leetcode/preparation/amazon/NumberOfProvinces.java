@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.amazon;
+package dev.dinesh.leetcode.preparation.amazon;
 
 public class NumberOfProvinces {
 
