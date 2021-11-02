@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.algorithms;
+package dev.dinesh.leetcode.algorithms.binarysearch;
 
 public class FirstBadVersion {
 
