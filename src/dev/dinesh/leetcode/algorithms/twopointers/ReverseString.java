@@ -1,6 +1,7 @@
 package dev.dinesh.leetcode.algorithms.twopointers;
 
 public class ReverseString {
+
     public void reverseString(char[] s) {
         int first = 0, last = s.length - 1;
         while(first < last) {
@@ -11,4 +12,5 @@ public class ReverseString {
             last--;
         }
     }
+
 }
