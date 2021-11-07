@@ -1,5 +1,9 @@
 package dev.dinesh.leetcode.algorithms.slidingwindow;
 
+/**
+ *  Left Index can moved directly to the occurrence index of duplicating value found in right index to reduce the time complexity
+ */
+
 public class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         int[] chars = new int[128];
