@@ -32,6 +32,11 @@ public class Test {
 
     public static void main(String[] args) {
 
+        String a = "cipher  \u0000 \u0000\u0000";
+
+        a = a.replaceAll("\\s+$", "");
+        System.out.println(a);
+
         Stack stack = new Stack(90);
 
         System.out.println(stack.isEmpty());
