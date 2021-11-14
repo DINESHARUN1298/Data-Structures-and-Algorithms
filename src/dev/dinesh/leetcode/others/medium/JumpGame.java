@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.medium;
+package dev.dinesh.leetcode.others.medium;
 
 public class JumpGame {
     public boolean canJump(int[] nums) {

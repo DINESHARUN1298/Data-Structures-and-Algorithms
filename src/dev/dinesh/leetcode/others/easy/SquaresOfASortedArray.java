@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.easy;
+package dev.dinesh.leetcode.others.easy;
 
 public class SquaresOfASortedArray {
     public int[] sortedSquares(int[] nums) {

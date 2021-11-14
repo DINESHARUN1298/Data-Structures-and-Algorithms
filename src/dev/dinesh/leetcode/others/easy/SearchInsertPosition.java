@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.easy;
+package dev.dinesh.leetcode.others.easy;
 
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {

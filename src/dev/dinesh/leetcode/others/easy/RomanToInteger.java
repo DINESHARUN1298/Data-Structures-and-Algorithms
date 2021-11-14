@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.easy;
+package dev.dinesh.leetcode.others.easy;
 
 import java.util.HashMap;
 import java.util.Map;
