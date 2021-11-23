@@ -1,6 +1,6 @@
 package dev.dinesh.leetcode.algorithms.dynamicprogramming;
 
-public class fibonaccinumber {
+public class FibonacciNumber {
     public int fib(int n) {
         int[] fib = new int[n+1];
         if(n <= 1) {
