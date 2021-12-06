@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.companies.amazon.trees;
+package dev.dinesh.leetcode.companies.amazon.tree;
 
 import java.util.ArrayList;
 import java.util.List;

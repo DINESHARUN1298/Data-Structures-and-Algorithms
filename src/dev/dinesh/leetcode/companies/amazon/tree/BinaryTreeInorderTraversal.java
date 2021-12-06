@@ -1,4 +1,4 @@
-package dev.dinesh.leetcode.companies.amazon.trees;
+package dev.dinesh.leetcode.companies.amazon.tree;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -46,5 +46,5 @@ public class BinaryTreeInorderTraversal {
         return output;
 
     }
-    
+
 }
