@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opencsv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../LargeNetworkLatestBuild/AdventNetDesktopCentral_MSP_WPack_64bit/ManageEngine/DesktopCentral_Server/lib/opencsv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
