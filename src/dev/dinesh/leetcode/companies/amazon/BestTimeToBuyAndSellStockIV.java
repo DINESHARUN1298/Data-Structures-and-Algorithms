@@ -7,6 +7,15 @@ public class BestTimeToBuyAndSellStockIV {
         if(prices.length == 0 || k == 0) {
             return 0;
         }
+        if(k >= prices.length/2) {
+            int profit = 0;
+            for(int index = 0; index < prices.length-1; index++) {
+                if(prices[index] < prices[index+1]) {
+                    profit += prices[index+1] - prices[index];
+                }
+            }
+            return profit;
+        }
         int[] buys = new int[k];
         Arrays.fill(buys, Integer.MIN_VALUE);
         int[] sells = new int[k];
