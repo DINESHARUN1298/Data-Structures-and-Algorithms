@@ -5,7 +5,6 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class MeetingRoomsII {
-
     public int minMeetingRooms(int[][] intervals) {
         if(intervals == null || intervals.length == 0) {
             return 0;
@@ -15,11 +14,7 @@ public class MeetingRoomsII {
                 return a[0] - b[0];
             }
         });
-        PriorityQueue priorityQueue = new PriorityQueue<int[]>(new Comparator<int[]>(){
-            public int compare(int[] a, int[] b) {
-                return a[1] - b[1];
-            }
-        });
+        PriorityQueue priorityQueue = new PriorityQueue<int[]>((a,b) -> a[1] - b[1]);
         priorityQueue.add(intervals[0]);
         for(int index = 1; index < intervals.length; index++) {
             int[] prev = (int[]) priorityQueue.poll();
@@ -34,5 +29,4 @@ public class MeetingRoomsII {
         }
         return priorityQueue.size();
     }
-
 }
