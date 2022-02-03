@@ -2,6 +2,7 @@
   <library name="opencsv">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../LargeNetworkLatestBuild/AdventNetDesktopCentral_MSP_WPack_64bit/ManageEngine/DesktopCentral_Server/lib/opencsv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LargeNetworkLatestBuild/AdventNetDesktopCentral_MSP_WPack_64bit/ManageEngine/DesktopCentral_Server/lib/json-simple-2.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
