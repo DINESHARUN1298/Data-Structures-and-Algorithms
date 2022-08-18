@@ -7,8 +7,6 @@ y
 Isrc/dev/dinesh/leetcode/companies/amazon/LargestRectangleInHistogram.java,9\f\9f43ef7ad900344950ed0509e4e1ac85b7fe3a4c
 }
 Msrc/dev/dinesh/leetcode/others/medium/MinimumMovesToEqualArrayElementsII.java,b\3\b35838f269cd29f0e7ad92a928093e4a9e494784
-?
-src/Progress.md,c\5\c529ade8ba014fd9375fb069c60beb0564bdbb61
 x
 Hsrc/dev/dinesh/leetcode/companies/amazon/MinimumCostToConnectSticks.java,c\6\c6d2bcc361aa32c5936067ada742527bf7a51ef2
 o
