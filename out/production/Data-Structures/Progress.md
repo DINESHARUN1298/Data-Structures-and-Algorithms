@@ -33,3 +33,10 @@
 |17/12/21| Amazon Problems   |
 |01/02/22| Microsoft Problems|
 |02/02/22| Microsoft Problems|
+|03/02/22| Microsoft Problems|
+|07/02/22| Microsoft Problems|
+|20/06/22| Microsoft Problems|
+|26/06/22| Microsoft Problems|
+|29/06/22| Daily Challenge   |
+|10/07/22| Daily Challenge   |
+|28/07/22| Daily Challenge   |
