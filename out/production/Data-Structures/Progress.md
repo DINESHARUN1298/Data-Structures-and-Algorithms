@@ -40,3 +40,4 @@
 |29/06/22| Daily Challenge   |
 |10/07/22| Daily Challenge   |
 |28/07/22| Daily Challenge   |
+|19/08/22| Daily Challenge   |
