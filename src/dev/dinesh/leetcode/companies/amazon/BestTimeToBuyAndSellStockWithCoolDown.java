@@ -1,6 +1,7 @@
 package dev.dinesh.leetcode.companies.amazon;
 
 public class BestTimeToBuyAndSellStockWithCoolDown {
+
     public int maxProfit(int[] prices) {
         if(prices.length <= 1) {
             return 0;
@@ -16,4 +17,25 @@ public class BestTimeToBuyAndSellStockWithCoolDown {
         }
         return dp[prices.length-1][0];
     }
+
+    public int alternateApproach(int[] prices) {
+
+        int sold = Integer.MIN_VALUE;
+        int held = Integer.MIN_VALUE;
+        int reset = 0;
+
+        for(int p : prices) {
+            int prevSold = sold;
+            sold = held + p;
+            held = Math.max(held, reset - p);
+            reset = Math.max(reset, prevSold);
+        }
+
+        return Math.max(sold, reset);
+
+    }
+
+    // TIME COMPLEXITY: O(N)
+    // SPACE COMPLEXITY: O(1)
+
 }
